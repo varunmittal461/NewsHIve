@@ -49,12 +49,6 @@ const NewsPageScreen = () => {
                   <i className="fab fa-twitter"></i>
                   <span>TWITTER</span>
                 </div>
-                <div className="socBox">
-                  <i className="fab fa-pinterest"></i>
-                </div>
-                <div className="socBox">
-                  <i className="fa fa-envelope"></i>
-                </div>
               </div>
 
               <div className="desctop">
